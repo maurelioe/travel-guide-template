@@ -8,3 +8,6 @@ dist-ssr
 .env.local
 *.tsbuildinfo
 .claude/settings.local.json
+
+vite.config.d.ts
+vite.config.js
